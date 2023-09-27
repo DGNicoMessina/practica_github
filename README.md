@@ -1,2 +1,4 @@
 # practica_github
-Pr{actica para gitHub2 del curso
+Practica para gitHub2 del curso
+
+Daniela Carballo

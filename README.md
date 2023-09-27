@@ -1,2 +1,2 @@
 # practica_github
-Pr{actica para gitHub2 del curso
+Pr{actica para gitHub2 del curso Frank
